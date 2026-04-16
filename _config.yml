@@ -1,7 +1,7 @@
 title: Poems
 description: A collection of poems
-baseurl: ""
-url: ""
+baseurl: "/poems"
+url: "https://my-slops.github.io"
 
 theme: minima
 
