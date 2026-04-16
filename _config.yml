@@ -1,0 +1,22 @@
+title: Poems
+description: A collection of poems
+baseurl: ""
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: 
+  email: 
+
+minima:
+  skin: classic
+  social_links:
+    # - { platform: github,  user_url: "https://github.com/username" }
+    # - { platform: twitter, user_url: "https://twitter.com/username" }
+
+show_excerpts: false
