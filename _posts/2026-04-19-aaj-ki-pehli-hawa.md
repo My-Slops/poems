@@ -1,0 +1,57 @@
+---
+layout: post
+title: "आज की पहली हवा"
+date: 2026-04-19 07:40:00 -0400
+categories: nazm hindi urdu
+---
+
+## मूल कविता (हिंदी/उर्दू)
+
+आज की पहली हवा ने ये पयामात कहे,
+दिल को हल्का रखो, दिन को करामात कहे।
+मैंने चौखट पे रखा डर, और उठाई हिम्मत,
+फिर क़दम-क़दम पे मुझे रस्ते इनायत कहे।
+
+चाय की भाप में घर की दुआओं का असर,
+माँ की आवाज़-सा नरम, बाप की छाँव-सा सफ़र।
+रोज़मर्रा की थकन भी कोई दुश्मन तो नहीं,
+काम में ढूँढ़ लो मतलब, तो बनें उससे हुनर।
+
+जो भी कल था, उसे तह करके रख दो दिल में,
+आज को आज ही जीना है इसी मंज़िल में।
+एक दिन में भी कई उम्रें उतर आती हैं,
+बस नज़र चाहिए जो देख सके इस सिलसिल में।
+
+शाम तक थक भी गए तो ये समझ लेना तुम,
+मेहनतों के भी बदन होते हैं, सोते हैं सनम।
+आराम इन्कार नहीं, जंग की तदबीर है ये,
+कल की फ़त्हें इन्हीं रुकते हुए लम्हों से जनम।
+
+## English Translation
+
+This poem reflects endurance, tenderness, and inner resolve through the day’s shifting light. It speaks of fear set down at the threshold, effort carried with dignity, and rest accepted as wisdom rather than weakness. Across morning, noon, and night, the speaker keeps choosing meaning, patience, and renewal.
+
+## शब्दार्थ (Difficult Words & Meanings)
+
+- **राब्ता (Rabita):** connection, contact.
+- **फ़ितरत (Fitrat):** innate nature.
+- **तअल्लुक़ (Taalluq):** relationship, bond.
+- **तसल्ली (Tasalli):** consolation, reassurance.
+- **तदब्बुर (Tadabbur):** deep reflection.
+- **इबादत (Ibadat):** worshipful devotion.
+- **इनायत (Inayat):** grace, favor.
+- **करामात (Karamat):** wonder, grace-filled marvel.
+- **इम्तिहान (Imtihan):** test, trial.
+- **तदबीर (Tadbeer):** thoughtful strategy, wise planning.
+
+## रूपकात्मक अर्थ (Metaphorical Meaning)
+
+यह कविता दिनचर्या के साधारण क्षणों को आध्यात्मिक और भावनात्मक अर्थ देती है।
+
+- रोशनी/सुबह: नई शुरुआत और मानसिक स्पष्टता का रूपक।
+- धूप/दोपहर: संघर्ष, श्रम और आत्म-परीक्षा का समय।
+- शाम/रात: आत्म-समीक्षा, उपचार और पुनर्संतुलन।
+- हवा/चाय/घर: भावनात्मक सुरक्षा और अपनापन।
+- नाव/दरिया/भँवर: अनिश्चितता में सीख और लचीलापन।
+
+कुल अर्थ: जीवन रैखिक जीत नहीं; यह छोटे-छोटे सजग चुनावों की निरंतर साधना है।
