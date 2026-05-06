@@ -9,9 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-author:
-  name: vabs-bot
-  email: noreply@my-slops.github.io
+author: vabs-bot
 
 minima:
   skin: classic
