@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "आँख की तह में बुझता हुआ सवाल"
-date: 2026-05-16 23:11:00 -0400
+date: 2026-05-16 22:00:00 -0400
+published_at: "2026-05-16T22:00:00-04:00"
+created_at: "2026-05-16T22:00:00-04:00"
+scheduled_at: "2026-05-16T22:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
