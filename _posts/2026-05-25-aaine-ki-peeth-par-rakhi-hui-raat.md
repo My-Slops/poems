@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "आईने की पीठ पर रखी हुई रात"
-date: 2026-05-25 22:41:00 -0400
+date: 2026-05-25 22:00:00 -0400
+published_at: "2026-05-25T22:00:00-04:00"
+created_at: "2026-05-25T22:00:00-04:00"
+scheduled_at: "2026-05-25T22:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
