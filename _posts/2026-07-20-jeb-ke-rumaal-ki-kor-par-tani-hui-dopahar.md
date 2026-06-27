@@ -22,16 +22,12 @@ categories: nazm hindi urdu
 मैंने रुमाल निकाला तो जेब से एक सिक्का भी साथ आया,
 दोनों में से कोई भी आज पूरी दलील न बन सका।
 
-अजीब है, फ़ीस हमेशा खिड़की पर नहीं कटती,
-कई बार वह बाप की आवाज़ से छुट्टा माँगती है।
-
-ऐ दिल, मेहनत का पसीना जल्दी सूख जाता है,
-बेइज़्ज़ती का हो
-तो रुमाल देर तक नमक सँभाले रहता है।
+फ़ीस कई बार खिड़की पर नहीं कटती, ऐ दिल,
+वह बाप की आवाज़ से छुट्टा माँगती है।
 
 ## English Translation
 
-The washed handkerchief that morning had left by the pocket, afternoon used its edge to wipe away not sweat, but replies.
+The washed handkerchief that morning had been placed by the pocket; afternoon used its edge to wipe away not sweat, but replies.
 
 At the school gate, the attendant straightened the list as though he were calling out not names, but the standing of homes.
 
@@ -41,9 +37,7 @@ My wife had said in the morning, "Keep your forehead straight." By afternoon, th
 
 When I took out the handkerchief, a coin came out of the pocket with it; neither of the two could become a full argument today.
 
-Strange thing: fees are not always collected at the counter. Many times they ask for small change from a father's voice.
-
-My heart, the sweat of labor dries quickly. But if it is the sweat of humiliation, the handkerchief keeps holding its salt for a long while.
+Many times fees are not collected at the counter, my heart; they ask for small change from a father's voice.
 
 ## शब्दार्थ (Difficult Words & Meanings)
 
@@ -57,7 +51,6 @@ My heart, the sweat of labor dries quickly. But if it is the sweat of humiliatio
 - **दलील (Daleel):** argument, justification, or something that can stand as a sufficient answer.
 - **फ़ीस (Fees):** fee, payment, or required school charge.
 - **छुट्टा (Chhutta):** small change; figuratively, a demand for what little can still be extracted.
-- **बेइज़्ज़ती (Beizzati):** humiliation, insult, or the public diminishment of dignity.
 
 ## रूपकात्मक अर्थ (Metaphorical Meaning)
 
@@ -70,8 +63,7 @@ My heart, the sweat of labor dries quickly. But if it is the sweat of humiliatio
 - कमीज़ पर चमकता इंतज़ार: बच्चे की मासूम उपस्थिति में भी अभाव और अनिश्चितता का महीन दाग़ मौजूद होना।
 - "माथा सीधा रखना" का बदलता मतलब: सुबह की आत्म-संभाल दोपहर तक सामाजिक परीक्षा में बदल जाना।
 - रुमाल के साथ निकलता सिक्का: गरिमा और मुद्रा का एक साथ जेब से बाहर आना, और दोनों का अपर्याप्त सिद्ध होना।
-- "फ़ीस हमेशा खिड़की पर नहीं कटती": कविता का निर्णायक मोड़; भुगतान सिर्फ़ रुपये में नहीं, स्वर, संकोच, और आत्म-सम्मान में भी वसूला जाता है।
+- "फ़ीस कई बार खिड़की पर नहीं कटती": कविता का निर्णायक मोड़; भुगतान सिर्फ़ रुपये में नहीं, स्वर, संकोच, और आत्म-सम्मान में भी वसूला जाता है।
 - बाप की आवाज़ से छुट्टा माँगना: संस्था का आर्थिक दबाव अंततः पिता की भाषा और उपस्थिति को छोटा कर देना।
-- नमक सँभाले रहता रुमाल: अंतिम बिंब, जहाँ पसीना शारीरिक श्रम से हटकर अपमान की लम्बी, चिपकी हुई स्मृति बन जाता है।
 
-कुल अर्थ: कविता कहती है कि गरिमा कई बार सुबह घर में संभल जाती है, लेकिन दोपहर उसे सार्वजनिक जगहों पर फिर से परखा जाता है। हाथ में रुमाल और जेब में सिक्का होते हुए भी आदमी कई बार पर्याप्त नहीं पड़ता; तब सबसे सच्चा अवशेष पसीना नहीं, उस पसीने में घुला हुआ नमक होता है।
+कुल अर्थ: कविता कहती है कि गरिमा कई बार सुबह घर में संभल जाती है, लेकिन दोपहर उसे सार्वजनिक जगहों पर फिर से परखा जाता है। हाथ में रुमाल और जेब में सिक्का होते हुए भी आदमी कई बार पर्याप्त नहीं पड़ता; तब सबसे कठोर वसूली रुपये से नहीं, उसकी आवाज़ से की जाती है।
