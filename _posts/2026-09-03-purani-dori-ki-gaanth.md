@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "पुरानी डोरी की गाँठ"
-date: 2026-09-03 13:18:00 -0400
+date: 2026-09-03 13:09:00 -0400
 categories: nazm hindi urdu
 ---
 
