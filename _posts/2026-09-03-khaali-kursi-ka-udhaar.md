@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "ख़ाली कुर्सी का उधार"
-date: 2026-09-03 22:18:00 -0400
+date: 2026-09-03 22:00:00 -0400
+published_at: "2026-09-03T22:00:00-04:00"
+created_at: "2026-09-03T22:00:00-04:00"
+scheduled_at: "2026-09-03T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
