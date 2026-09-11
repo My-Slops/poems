@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "गर्दन की उम्र"
-date: 2026-09-11 14:18:00 -0400
+date: 2026-09-11 13:00:00 -0400
+published_at: "2026-09-11T13:00:00-04:00"
+created_at: "2026-09-11T13:00:00-04:00"
+scheduled_at: "2026-09-11T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
