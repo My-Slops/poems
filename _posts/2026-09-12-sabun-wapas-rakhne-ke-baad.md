@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "साबुन वापस रखने के बाद"
-date: 2026-09-12 14:36:00 -0400
+date: 2026-09-12 13:00:00 -0400
+published_at: "2026-09-12T13:00:00-04:00"
+created_at: "2026-09-12T13:00:00-04:00"
+scheduled_at: "2026-09-12T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
