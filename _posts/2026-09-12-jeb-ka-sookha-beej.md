@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "जेब का सूखा बीज"
-date: 2026-09-12 08:09:00 -0400
+date: 2026-09-12 07:00:00 -0400
+published_at: "2026-09-12T07:00:00-04:00"
+created_at: "2026-09-12T07:00:00-04:00"
+scheduled_at: "2026-09-12T07:00:00-04:00"
 categories: qata hindi urdu
 ---
 
