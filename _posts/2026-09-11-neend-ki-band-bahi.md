@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "नींद की बंद बही"
-date: 2026-09-11 23:11:00 -0400
+date: 2026-09-11 22:00:00 -0400
+published_at: "2026-09-11T22:00:00-04:00"
+created_at: "2026-09-11T22:00:00-04:00"
+scheduled_at: "2026-09-11T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
