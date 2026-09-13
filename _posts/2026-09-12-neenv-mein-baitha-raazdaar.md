@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "नींव में बैठा राज़दार"
-date: 2026-09-12 23:17:00 -0400
+date: 2026-09-12 22:00:00 -0400
+published_at: "2026-09-12T22:00:00-04:00"
+created_at: "2026-09-12T22:00:00-04:00"
+scheduled_at: "2026-09-12T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
