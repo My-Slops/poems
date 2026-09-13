@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "भूख की दूसरी मज़दूरी"
-date: 2026-09-13 14:22:00 -0400
+date: 2026-09-13 13:00:00 -0400
+published_at: "2026-09-13T13:00:00-04:00"
+created_at: "2026-09-13T13:00:00-04:00"
+scheduled_at: "2026-09-13T13:00:00-04:00"
 categories: qata hindi urdu
 ---
 
