@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "सिरहाने का बक़ाया"
-date: 2026-09-13 23:41:00 -0400
+date: 2026-09-13 22:00:00 -0400
+published_at: "2026-09-13T22:00:00-04:00"
+created_at: "2026-09-13T22:00:00-04:00"
+scheduled_at: "2026-09-13T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
