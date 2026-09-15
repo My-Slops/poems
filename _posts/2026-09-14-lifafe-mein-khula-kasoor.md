@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "लिफ़ाफ़े में खुला कसूर"
-date: 2026-09-14 23:18:00 -0400
+date: 2026-09-14 22:00:00 -0400
+published_at: "2026-09-14T22:00:00-04:00"
+created_at: "2026-09-14T22:00:00-04:00"
+scheduled_at: "2026-09-14T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
