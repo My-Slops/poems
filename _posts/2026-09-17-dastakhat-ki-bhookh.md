@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "दस्तख़त की भूख"
-date: 2026-09-17 14:11:00 -0400
+date: 2026-09-17 13:00:00 -0400
+published_at: "2026-09-17T13:00:00-04:00"
+created_at: "2026-09-17T13:00:00-04:00"
+scheduled_at: "2026-09-17T13:00:00-04:00"
 categories: qata hindi urdu
 ---
 
