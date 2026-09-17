@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "बंद दरवाज़े का कसूर"
-date: 2026-09-16 22:03:00 -0400
+date: 2026-09-16 22:00:00 -0400
+published_at: "2026-09-16T22:00:00-04:00"
+created_at: "2026-09-16T22:00:00-04:00"
+scheduled_at: "2026-09-16T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
