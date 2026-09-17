@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "केतली का जवाब"
-date: 2026-09-17 08:07:00 -0400
+date: 2026-09-17 07:00:00 -0400
+published_at: "2026-09-17T07:00:00-04:00"
+created_at: "2026-09-17T07:00:00-04:00"
+scheduled_at: "2026-09-17T07:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
