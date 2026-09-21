@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "चाबी के बाद की दस्तक"
-date: 2026-09-20 22:20:00 -0400
+date: 2026-09-20 22:00:00 -0400
+scheduled_at: "2026-09-20T22:00:00-04:00"
+created_at: "2026-09-20T22:00:00-04:00"
+published_at: "2026-09-20T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
