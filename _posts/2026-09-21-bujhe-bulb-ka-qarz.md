@@ -2,6 +2,9 @@
 layout: post
 title: "बुझे बल्ब का क़र्ज़"
 date: 2026-09-21T22:00:00-04:00
+scheduled_at: "2026-09-21T22:00:00-04:00"
+created_at: "2026-09-21T22:00:00-04:00"
+published_at: "2026-09-21T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
@@ -17,9 +20,9 @@ categories: ghazal hindi urdu
 राख जलाना काम नहीं था
 
 नींद ने मुझको साफ़ बताया
-तुझपर इल्ज़ाम नहीं था
+तुझपर भी इल्ज़ाम नहीं था
 
-बिस्तर मेरा, जाग मेरी थी
+बिस्तर मेरा, जाग भी मेरी थी
 इसमें तेरा दाम भी नहीं था
 
 ## English Translation
@@ -41,7 +44,7 @@ The bed was mine, the waking mine; you owed no price for it.
 - **मूड (Mood):** नींद के सामने अपने बहानों का खुला हिसाब
 - **रदीफ़ (Radeef):** नहीं था
 - **क़ाफ़िया (Qaafiya):** -ाम; प्रत्याशी शब्द: नाम, दाम, काम, इल्ज़ाम, आराम
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 8/8, 8/8, 8/8, 8/8, 9/9
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 8/8, 8/8, 8/8, 8/8, 9/9
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** रात, बल्ब, नाम, आराम, हिसाब
