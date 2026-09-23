@@ -2,6 +2,9 @@
 layout: post
 title: "लिफ़्ट के बाहर"
 date: 2026-09-23T13:00:00-04:00
+scheduled_at: "2026-09-23T13:00:00-04:00"
+created_at: "2026-09-23T13:00:00-04:00"
+published_at: "2026-09-23T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ my name washed clean in sweat.
 - **मूड (Mood):** कपड़ों से आँकी गई हैसियत के सामने शांत प्रतिरोध
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: ऊपर, दफ़्तर, पत्थर, भीतर
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 7, 8, 7, 8, 7, 7, 8, 8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 7, 8, 7, 8, 7, 7, 8, 8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** दोपहर, लिफ़्ट, जूते, सीढ़ी, नाम
