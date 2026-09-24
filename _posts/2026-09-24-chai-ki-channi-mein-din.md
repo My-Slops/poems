@@ -2,6 +2,9 @@
 layout: post
 title: "चाय की छन्नी में दिन"
 date: 2026-09-24T07:00:00-04:00
+scheduled_at: "2026-09-24T07:00:00-04:00"
+created_at: "2026-09-24T07:00:00-04:00"
+published_at: "2026-09-24T07:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ yet the day began to read.
 - **मूड (Mood):** रात की किरचों से रोज़मर्रा का छोटा वादा बनाती सुबह
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: छनी, बनी, सुनी, चुनी
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 8, 8, 8, 8, 7, 8, 9, 8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 8, 8, 8, 8, 7, 8, 9, 8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, चाय, छन्नी, पत्ती, दिन
