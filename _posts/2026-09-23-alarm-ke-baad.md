@@ -2,6 +2,9 @@
 layout: post
 title: "अलार्म के बाद"
 date: 2026-09-23T22:00:00-04:00
+scheduled_at: "2026-09-23T22:00:00-04:00"
+created_at: "2026-09-23T22:00:00-04:00"
+published_at: "2026-09-23T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
@@ -11,16 +14,16 @@ categories: ghazal hindi urdu
 आँख में इंतज़ार बचा रहा
 
 घड़ी सुबह तक बोल चुकी थी
-मुझमें मगर इनकार बचा रहा
+मुझमें भी इनकार बचा रहा
 
-ख़त की राख बुहार चुका था
+ख़त की राख भी बुहार चुका था
 नाख़ुन में गुबार बचा रहा
 
-तूने रस्ता साफ़ लिखा था
+तूने रस्ता भी साफ़ लिखा था
 पाँवों में दीवार बचा रहा
 
 अलार्म बजा, सच यह निकला
-मैं ही फिर बे-क़रार बचा रहा
+मैं बे-क़रार बचा रहा
 
 ## English Translation
 
@@ -41,7 +44,7 @@ When the alarm rang, this truth emerged: I alone remained restless.
 - **मूड (Mood):** रात की बनाई हुई पूछताछ और अपने हिस्से का सच
 - **रदीफ़ (Radeef):** बचा रहा
 - **क़ाफ़िया (Qaafiya):** -ार; प्रत्याशी शब्द: उधार, इंतज़ार, इनकार, गुबार, क़रार
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 8/8, 9/9, 8/8, 8/8, 9/9
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 9/9, 9/9, 9/9, 9/9, 8/8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** रात, अलार्म, उधार, इनकार, नींद
