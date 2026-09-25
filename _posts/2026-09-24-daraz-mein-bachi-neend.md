@@ -2,6 +2,9 @@
 layout: post
 title: "दराज़ में बची नींद"
 date: 2026-09-24T22:00:00-04:00
+scheduled_at: "2026-09-24T22:00:00-04:00"
+created_at: "2026-09-24T22:00:00-04:00"
+published_at: "2026-09-24T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
@@ -10,16 +13,16 @@ categories: ghazal hindi urdu
 दराज़ तले यह रात पड़ी रही
 होंठों पर आधी बात पड़ी रही
 
-मैंने चाबी लौटा दी थी
+मैंने चाबी भी लौटा दी थी
 जेबों में फिर मात पड़ी रही
 
 तेरी तस्वीर हटा चुका था
-कील पर अपनी ही ज़ात पड़ी रही
+कील पर अपनी ज़ात पड़ी रही
 
 नींद ने मुझको छोटा आँका
 मुझपर औक़ात पड़ी रही
 
-कुछ भी तूने माँगा कब था
+कुछ भी तूने माँगा ही कब था
 मेरी ही सौग़ात पड़ी रही
 
 ## English Translation
@@ -41,7 +44,7 @@ You had asked for nothing; only my self-made gift remained.
 - **मूड (Mood):** अकेलेपन का प्रदर्शन उतरने पर बचा निजी सच
 - **रदीफ़ (Radeef):** पड़ी रही
 - **क़ाफ़िया (Qaafiya):** -ात; प्रत्याशी शब्द: रात, बात, मात, औक़ात, सौग़ात
-- **मिसरा-लंबाई (Misra Length):** 9 sounded syllables; sounded counts by sher: 9/9, 8/8, 9/9, 8/8, 8/8
+- **मिसरा-लंबाई (Misra Length):** 9 sounded syllables target; natural-schwa roman counts by sher: 10/10, 9/9, 9/9, 8/8, 9/9
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** रात, दराज़, चाबी, बात, औक़ात
