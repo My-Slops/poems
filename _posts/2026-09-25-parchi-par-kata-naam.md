@@ -2,6 +2,9 @@
 layout: post
 title: "पर्ची पर कटा नाम"
 date: 2026-09-25T13:00:00-04:00
+scheduled_at: "2026-09-25T13:00:00-04:00"
+created_at: "2026-09-25T13:00:00-04:00"
+published_at: "2026-09-25T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ but left the aid behind.
 - **मूड (Mood):** सार्वजनिक गलतफ़हमी में बचाई गई अपनी आवाज़
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: कटा, बँटा, घटा, हटा
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 8, 7, 8, 9, 8, 9, 8, 8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 8, 7, 8, 9, 8, 9, 8, 8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** दोपहर, पर्ची, कतार, नाम, किराया
