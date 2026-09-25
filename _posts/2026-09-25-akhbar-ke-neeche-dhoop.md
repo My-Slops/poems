@@ -2,6 +2,9 @@
 layout: post
 title: "अख़बार के नीचे धूप"
 date: 2026-09-25T07:00:00-04:00
+scheduled_at: "2026-09-25T07:00:00-04:00"
+created_at: "2026-09-25T07:00:00-04:00"
+published_at: "2026-09-25T07:00:00-04:00"
 categories: qata hindi urdu
 ---
 
@@ -11,7 +14,7 @@ categories: qata hindi urdu
 कोने में इतवार मिल गया
 
 धूप अभी उठी तो रोटी को
-कल का एक अंगार मिल गया
+कल का एक अंगार भी मिल गया
 
 ## English Translation
 
@@ -26,7 +29,7 @@ When sunlight rose, bread found one ember from yesterday.
 - **मूड (Mood):** रात की भारी स्वीकारोक्ति के बाद मामूली वापसी
 - **रदीफ़ (Radeef):** मिल गया
 - **क़ाफ़िया (Qaafiya):** -ार; प्रत्याशी शब्द: इतवार, उधार, पुकार, अंगार, अख़बार
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 9/9, 9/9
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 8/8, 9/9
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, अख़बार, धूप, इतवार, रोटी
