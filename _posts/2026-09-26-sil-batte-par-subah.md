@@ -2,6 +2,9 @@
 layout: post
 title: "सिल-बट्टे पर सुबह"
 date: 2026-09-26T07:00:00-04:00
+scheduled_at: "2026-09-26T07:00:00-04:00"
+created_at: "2026-09-26T07:00:00-04:00"
+published_at: "2026-09-26T07:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ the first bread was made.
 - **मूड (Mood):** पुरानी गंध से बिना शोर नई शुरुआत
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: पिसी, हँसी, बसी, फँसी
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 8, 7, 8, 8, 7, 8, 7, 8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 8, 7, 8, 8, 7, 8, 7, 8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, सिलबट्टा, मसाला, रसोई, गंध
