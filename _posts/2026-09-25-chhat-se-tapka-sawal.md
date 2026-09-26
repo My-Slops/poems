@@ -2,6 +2,9 @@
 layout: post
 title: "छत से टपका सवाल"
 date: 2026-09-25T22:00:00-04:00
+scheduled_at: "2026-09-25T22:00:00-04:00"
+created_at: "2026-09-25T22:00:00-04:00"
+published_at: "2026-09-25T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
@@ -14,10 +17,10 @@ categories: ghazal hindi urdu
 घर को मैंने दाम कर दिया
 
 तूने जाने को कहा था
-मैंने पैग़ाम कर दिया
+मैंने पैग़ाम भी कर दिया
 
 रस्ता खुला पड़ा रहा था
-पाँवों को इल्ज़ाम कर दिया
+पाँवों को भी इल्ज़ाम कर दिया
 
 नींद ने पूछा किसकी गलती
 मैंने अपना नाम कर दिया
@@ -41,7 +44,7 @@ When sleep asked whose fault it was, I gave it my own name.
 - **मूड (Mood):** प्रेम के हिसाब में अपनी बनाई हुई कमी का स्वीकार
 - **रदीफ़ (Radeef):** कर दिया
 - **क़ाफ़िया (Qaafiya):** -ाम; प्रत्याशी शब्द: नाम, काम, दाम, पैग़ाम, इल्ज़ाम
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 8/8, 8/8, 8/8, 9/9, 8/8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 8/8, 8/8, 8/8, 9/9, 8/8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** रात, छत, बाल्टी, नाम, इल्ज़ाम
