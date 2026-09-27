@@ -2,6 +2,9 @@
 layout: post
 title: "कैंटीन की कटोरी"
 date: 2026-09-27T13:00:00-04:00
+scheduled_at: "2026-09-27T13:00:00-04:00"
+created_at: "2026-09-27T13:00:00-04:00"
+published_at: "2026-09-27T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ and seated hunger beside me.
 - **मूड (Mood):** भूख को शक समझने वाली सार्वजनिक नज़र के सामने गरिमा
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: थाली, खाली, पाली, टाली
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 8, 8, 7, 8, 9, 8, 9, 8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 8, 8, 7, 8, 9, 8, 9, 8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** दोपहर, कैंटीन, कटोरी, भूख, सिक्का
