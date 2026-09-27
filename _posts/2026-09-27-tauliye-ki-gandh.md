@@ -2,6 +2,9 @@
 layout: post
 title: "तौलिये की गंध"
 date: 2026-09-27T07:00:00-04:00
+scheduled_at: "2026-09-27T07:00:00-04:00"
+created_at: "2026-09-27T07:00:00-04:00"
+published_at: "2026-09-27T07:00:00-04:00"
 categories: qata hindi urdu
 ---
 
@@ -26,7 +29,7 @@ Whom could I blame for the night? Once my face was washed, my share appeared.
 - **मूड (Mood):** रात की जिरह के बाद शरीर की साधारण गवाही
 - **रदीफ़ (Radeef):** खुल गया
 - **क़ाफ़िया (Qaafiya):** -ाग; प्रत्याशी शब्द: दाग़, राग, आग, भाग, सुराग़
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 9/9, 8/8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 9/9, 8/8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, तौलिया, दाग़, नल, सुराग़
