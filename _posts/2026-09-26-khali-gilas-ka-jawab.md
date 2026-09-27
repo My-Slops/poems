@@ -2,6 +2,9 @@
 layout: post
 title: "ख़ाली गिलास का जवाब"
 date: 2026-09-26T22:00:00-04:00
+scheduled_at: "2026-09-26T22:00:00-04:00"
+created_at: "2026-09-26T22:00:00-04:00"
+published_at: "2026-09-26T22:00:00-04:00"
 categories: qata hindi urdu
 ---
 
@@ -26,7 +29,7 @@ I had thrown away the water myself; only a dream remained on my lips.
 - **मूड (Mood):** रात में अपनी बनाई प्यास का संक्षिप्त स्वीकार
 - **रदीफ़ (Radeef):** रह गया
 - **क़ाफ़िया (Qaafiya):** -ाब; प्रत्याशी शब्द: जवाब, हिसाब, ख़्वाब, नक़ाब, गुलाब
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 8/8, 8/8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 8/8, 8/8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** रात, गिलास, जवाब, हिसाब, प्यास
