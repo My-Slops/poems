@@ -2,6 +2,9 @@
 layout: post
 title: "माचिस की आख़िरी तीली"
 date: 2026-09-28T07:00:00-04:00
+scheduled_at: "2026-09-28T07:00:00-04:00"
+created_at: "2026-09-28T07:00:00-04:00"
+published_at: "2026-09-28T07:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ the match remained in tomorrow’s name.
 - **मूड (Mood):** रात से बची छोटी संभावना को किसी अनदेखे कल के लिए रखना
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: जली, चली, मिली, खुली
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 7, 8, 8, 7, 7, 8, 7, 7
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 7, 8, 8, 7, 7, 8, 7, 7
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, माचिस, तीली, चूल्हा, कल
