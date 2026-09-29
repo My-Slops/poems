@@ -2,6 +2,9 @@
 layout: post
 title: "किराये की पर्ची"
 date: 2026-09-29T13:00:00-04:00
+scheduled_at: "2026-09-29T13:00:00-04:00"
+created_at: "2026-09-29T13:00:00-04:00"
+published_at: "2026-09-29T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -37,7 +40,7 @@ the house grew smaller inside me.
 - **मूड (Mood):** शहर के कर्ज़ और साफ़ इनकार के बीच तनती दोपहर
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: रसीद, उम्मीद, तसदीक, खरीद
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 8, 8, 9, 8, 8, 8, 7, 8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 8, 8, 9, 8, 8, 8, 7, 8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** दोपहर, किराया, पर्ची, मकान, चाबी
