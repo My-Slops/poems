@@ -2,6 +2,9 @@
 layout: post
 title: "गमले की दरार"
 date: 2026-09-29T07:00:00-04:00
+scheduled_at: "2026-09-29T07:00:00-04:00"
+created_at: "2026-09-29T07:00:00-04:00"
+published_at: "2026-09-29T07:00:00-04:00"
 categories: qata hindi urdu
 ---
 
@@ -26,7 +29,7 @@ I poured only a little water; only grass remained in the soil.
 - **मूड (Mood):** टूटी चीज़ में बिना भ्रम बची उपयोगी आशा
 - **रदीफ़ (Radeef):** बच गई
 - **क़ाफ़िया (Qaafiya):** -ास; प्रत्याशी शब्द: प्यास, आस, साँस, घास, मिठास
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 9/9, 8/8
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 9/9, 8/8
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, गमला, दरार, प्यास, घास
