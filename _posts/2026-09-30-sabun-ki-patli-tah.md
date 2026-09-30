@@ -2,6 +2,9 @@
 layout: post
 title: "साबुन की पतली तह"
 date: 2026-09-30T07:00:00-04:00
+scheduled_at: "2026-09-30T07:00:00-04:00"
+created_at: "2026-09-30T07:00:00-04:00"
+published_at: "2026-09-30T07:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ but enough morning arrived for work.
 - **मूड (Mood):** रात के प्रदर्शन को धोकर बची मामूली उपयोगिता
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: धुली, खुली, मिली, चली
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 7, 7, 8, 8, 8, 7, 8, 7
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 7, 7, 8, 8, 8, 7, 8, 7
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, साबुन, कमीज़, पानी, धूप
