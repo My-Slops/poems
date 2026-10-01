@@ -2,6 +2,9 @@
 layout: post
 title: "दरवाज़े की पहली आहट"
 date: 2026-10-01T07:00:00-04:00
+scheduled_at: "2026-10-01T07:00:00-04:00"
+created_at: "2026-10-01T07:00:00-04:00"
+published_at: "2026-10-01T07:00:00-04:00"
 categories: qata hindi urdu
 ---
 
@@ -26,7 +29,7 @@ I asked no one’s name; the kettle arrived as witness.
 - **मूड (Mood):** नए महीने की सुबह में बिना बुलाए लौटती दिनचर्या
 - **रदीफ़ (Radeef):** आ गई
 - **क़ाफ़िया (Qaafiya):** -ाह; प्रत्याशी शब्द: राह, चाह, पनाह, निगाह, गवाह
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables; sounded counts by sher: 8/8, 9/9
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by sher: 8/8, 9/9
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** सुबह, दरवाज़ा, आहट, राह, दूध
