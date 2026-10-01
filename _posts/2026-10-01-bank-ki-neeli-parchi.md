@@ -2,6 +2,9 @@
 layout: post
 title: "बैंक की नीली पर्ची"
 date: 2026-10-01T13:00:00-04:00
+scheduled_at: "2026-10-01T13:00:00-04:00"
+created_at: "2026-10-01T13:00:00-04:00"
+published_at: "2026-10-01T13:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
@@ -41,7 +44,7 @@ the account was empty, not my name.
 - **मूड (Mood):** साफ़ कपड़ों को संपन्नता समझती खिड़की के सामने स्वाभिमान
 - **रदीफ़ (Radeef):** रिक्त
 - **क़ाफ़िया (Qaafiya):** रिक्त; प्रत्याशी शब्द: खाता, आता, जाता, पाता
-- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; sounded counts by misra: 7, 7, 8, 7, 8, 9, 8, 7
+- **मिसरा-लंबाई (Misra Length):** 8 sounded syllables target; natural-schwa roman counts by misra: 7, 7, 8, 7, 8, 9, 8, 7
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** दोपहर, बैंक, पर्ची, खाता, कतार
