@@ -2,6 +2,9 @@
 layout: post
 title: "महीने की पहली नींद"
 date: 2026-10-01T22:00:00-04:00
+scheduled_at: "2026-10-01T22:00:00-04:00"
+created_at: "2026-10-01T22:00:00-04:00"
+published_at: "2026-10-01T22:00:00-04:00"
 categories: ghazal hindi urdu
 ---
 
@@ -10,16 +13,16 @@ categories: ghazal hindi urdu
 नींद को कोई बहाना मिला मुझे
 तकिये में पुराना मिला मुझे
 
-चाबी रखकर लौट चला तो
+चाबी रखकर मैं लौट चला तो
 अपना ठिकाना मिला मुझे
 
-मैं ख़त की राख समेट चुका था
-खाली ख़ज़ाना मिला मुझे
+मैं ख़त की राख भी समेट चुका था
+खाली हाथ ख़ज़ाना मिला मुझे
 
 तेरा नाम मैंने फिर भी नहीं बोला
 अपना बीता ज़माना मिला मुझे
 
-पहली तारीख़ ने फिर यह पूछा
+पहली तारीख़ ने फिर भी यह पूछा
 मैं ही क्यों फ़साना मिला मुझे
 
 ## English Translation
@@ -41,7 +44,7 @@ The first date asked why I had made myself the whole story.
 - **मूड (Mood):** नई तारीख़ पर पुराने आत्म-छल का शांत अंत
 - **रदीफ़ (Radeef):** मिला मुझे
 - **क़ाफ़िया (Qaafiya):** -ाना; प्रत्याशी शब्द: बहाना, पुराना, ठिकाना, ख़ज़ाना, ज़माना
-- **मिसरा-लंबाई (Misra Length):** 10 sounded syllables target; sounded counts by sher: 11/11, 9/9, 9/9, 11/11, 10/10
+- **मिसरा-लंबाई (Misra Length):** 10 sounded syllables target; natural-schwa roman counts by sher: 11/11, 9/9, 10/10, 11/11, 10/10
 - **रजिस्टर (Register):** plain Hindustani
 - **लिपि (Script):** Devanagari
 - **टैग्स (Tags):** रात, महीना, नींद, बहाना, ठिकाना
