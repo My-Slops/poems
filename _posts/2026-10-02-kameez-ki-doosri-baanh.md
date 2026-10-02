@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "कमीज़ की दूसरी बाँह"
-date: 2026-10-02T07:00:00-04:00
+date: 2026-10-02 07:00:00 -0400
+published_at: "2026-10-02T07:00:00-04:00"
+created_at: "2026-10-02T07:00:00-04:00"
+scheduled_at: "2026-10-02T07:00:00-04:00"
 categories: nazm hindi urdu
 ---
 
